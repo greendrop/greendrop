@@ -22,7 +22,7 @@
 
 [![greendrop's GitHub Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=greendrop&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
-[![greendrop's GitHub trophy](https://github-profile-trophy.vercel.app/?username=greendrop)](https://github.com/ryo-ma/github-profile-trophy)
+[![greendrop's GitHub trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=greendrop)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to reach me
 
