@@ -18,9 +18,9 @@
 
 ## 📈 GitHub Stats
 
-[![greendrop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=greendrop)](https://github.com/anuraghazra/github-readme-stats)
+[![greendrop's GitHub Stats](https://github-stats-extended.vercel.app/api?username=greendrop)](https://github.com/stats-organization/github-stats-extended)
 
-[![greendrop's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greendrop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![greendrop's GitHub Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=greendrop&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 [![greendrop's GitHub trophy](https://github-profile-trophy.vercel.app/?username=greendrop)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -32,7 +32,7 @@
 <!--
 ## 🔥 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greendrop&repo=greendrop)](https://github.com/greendrop/greendrop)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=greendrop&repo=greendrop)](https://github.com/greendrop/greendrop)
 -->
 
 ---
